@@ -26,19 +26,19 @@ let x = 50
 print($"{x}! is {factorial(x})")
 ```
 
-## Roadmap
+# Roadmap
 
 We are still designing the language to look and feel the way we want it to. If you want to read what we've been planning, [take a look here](Ideas.md).
 
-## Contributing to Noit
+# Contributing to Noit
 
 Once we finish designing the language, a note about contributing will be added here. That said, if you like what we are making here, feel free to drop an issue or something to get in touch with us!
 
-## Code of Conduct
+# Code of Conduct
 
 Soon!
 
-## License
+# License
 
 Noit is released under the Apache 2.0 License. All Noit graphics and the Noit mascot are released under a Creative Commons Attribution 4.0 International (CC BY 4.0) license. Copyright (c) 2019 MOX.
 
