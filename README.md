@@ -42,4 +42,4 @@ Soon!
 
 Noit is released under the Apache 2.0 License. All Noit graphics and the Noit mascot are released under a Creative Commons Attribution 4.0 International (CC BY 4.0) license. Copyright (c) 2019 MOX.
 
-<img src="Graphical Assets/Noit Coding.png" height=150px>
+<img src="Graphical Assets/Noit Coding.png" height=300px>
