@@ -10,6 +10,19 @@
 
 We are still designing the language to look and feel the way we want it to. If you want to read what we've been planning, [take a look here](Ideas.md).
 
+Noit may end up looking like this:
+
+```haskell
+memoized fun factorial (n: int) -> int
+{
+    1 if n <= 1 else n * factorial(n - 1)
+}
+
+let x = 50
+print($"{x}! is {factorial(x})")
+```
+
+
 ## Learning Noit
 
 <img src="Graphical Assets/Noit Coding.png" height=150px>
