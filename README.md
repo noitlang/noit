@@ -13,11 +13,17 @@ We are still designing the language to look and feel the way we want it to. If y
 Noit may end up looking like this:
 
 ```haskell
+fun hello_world () -> nothing
+{
+    print("Hello world!")
+}
+
 memoized fun factorial (n: int) -> int
 {
     1 if n <= 1 else n * factorial(n - 1)
 }
 
+hello_world()
 let x = 50
 print($"{x}! is {factorial(x})")
 ```
