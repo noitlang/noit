@@ -8,21 +8,21 @@
 
 ## About the language
 
-TODO
+We are still designing the language to look and feel the way we want it to. If you want to read what we've been planning, [take a look here](Ideas.md).
 
 ## Learning Noit
 
 <img src="Graphical Assets/Noit Coding.png" height=150px>
 
-TODO
+To-do, as there's no Noit to learn yet!
 
 ## Contributing to Noit
 
-TODO
+Once we finish designing the language, a note about contributing will be added here. That said, if you like what we are making here, feel free to drop an issue or something to get in touch with us!
 
 ## Where can I get more help, if I need it?
 
-TODO
+Oh, don't we all wonder the same?
 
 ## License
 
