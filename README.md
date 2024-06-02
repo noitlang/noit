@@ -1,8 +1,9 @@
-# Noit
-
-<img src="Graphical Assets/textlogo2.png" height=200px>
-
-<img src="https://img.shields.io/badge/release-v0.0.0-lightgray.svg"> <img src="https://img.shields.io/badge/license-_Apache_2.0-green">
+<p align=center>
+    <img src="Graphical Assets/textlogo2.png" height=200px width=auto>
+    <br><br>
+    <img src="https://img.shields.io/badge/release-v0.0.0-lightgray.svg">
+    <img src="https://img.shields.io/badge/license-_Apache_2.0-green">
+</p>
 
 **Noit** is a functional programming language with a concurrency model based on light processes and message passing. It features static typing, explicit casting, and immutability. Noit compiles to C, so it's fast and portable. Noit is designed to be easy enough to learn that you can learn it in an afternoon.
 
